@@ -14,7 +14,7 @@ namespace ScriptureMemorizationProgram
             // Initialize a variable to track if all words are hidden
             bool allWordsHidden = false;
 
-            // Loop until all words are hidden
+            // Loop until all words are hidden or user quits
             while (!allWordsHidden)
             {
                 Console.Clear();
