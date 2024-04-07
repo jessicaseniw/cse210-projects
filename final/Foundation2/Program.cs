@@ -1,3 +1,11 @@
+// 2. **Foundation Program #2 (Encapsulation):**
+//    - Defined classes `Product`, `Address`, `Customer`, and `Order` to model products, addresses, customers, and orders.
+//    - Used encapsulation by defining properties with getters/setters and methods to calculate total order costs, generate packing labels, and shipping labels based on customer addresses and products.
+
+// In the `Main` program, I instantiated these classes to simulate customer orders with different products and addresses. For each order, I calculated and displayed details such as packing labels, shipping labels, and total costs.
+
+// These steps represent the progress so far in implementing the Foundation 4 project. The code is structured using principles of abstraction and encapsulation to model and manipulate entities related to YouTube videos and online product orders.
+
 using System;
 using System.Collections.Generic;
 

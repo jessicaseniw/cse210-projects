@@ -1,3 +1,13 @@
+// I am working on the Foundation 4 version of the final project. Up to now, I have completed the following steps:
+
+// 1. **Foundation Program #1 (Abstraction):**
+//    - Created classes `Comment` and `Video` to represent YouTube comments and videos, respectively.
+//    - Implemented methods to add comments to videos, count the number of comments, and display detailed video information including comments.
+
+// In the `Main` program, I instantiated these classes to simulate customer orders with different products and addresses. For each order, I calculated and displayed details such as packing labels, shipping labels, and total costs.
+
+// These steps represent the progress so far in implementing the Foundation 4 project. The code is structured using principles of abstraction and encapsulation to model and manipulate entities related to YouTube videos and online product orders.
+
 using System;
 using System.Collections.Generic;
 
